@@ -1,1 +1,1 @@
-My first readme
+My struggle with git projects
